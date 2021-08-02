@@ -2,8 +2,13 @@
   "name": "@aboqasem/prettierrc",
   "version": "1.0.0",
   "description": "My Personal Prettier Configurations",
-  "main": "index.json",
   "repository": "git@github.com:aboqasem/prettierrc.git",
+  "homepage": "https://github.com/aboqasem/prettierrc#README",
+  "keywords": [
+    "prettier",
+    "prettierrc"
+  ],
   "author": "Mohammad Al Zouabi <mb.alzouabi@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.json"
 }
