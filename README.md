@@ -9,7 +9,6 @@
   "trailingComma": "all",
   "arrowParens": "always",
   "bracketSpacing": true,
-  "jsxBracketSameLine": false,
   "jsxSingleQuote": false,
   "printWidth": 100,
   "quoteProps": "as-needed",
@@ -21,6 +20,8 @@
 
 ```shell
 npm i -D @aboqasem/prettierrc
+yarn add -D @aboqasem/prettierrc
+pnpm add -D @aboqasem/prettierrc
 ```
 
 ## Use
